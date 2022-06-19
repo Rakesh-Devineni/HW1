@@ -1,1 +1,4 @@
-This is a simple site created using the html and css features
+This is a simple website created using the html and css features like iframe,table,image,pdf tags and also few css properties to make the website look fancy .
+I referred below sites for learning 
+w3schools.com
+stackoverflow
